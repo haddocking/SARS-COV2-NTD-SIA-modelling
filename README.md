@@ -3,21 +3,22 @@
 
 This dataset is related to the following submitted manuscript:
 
-*Cryptic SARS-CoV2-spike-with-sugar interactions revealed by ‘universal-STD’*
+**Cryptic SARS-CoV2-spike-with-sugar interactions revealed by ‘universal-STD’**
 
 Charles J. Buchanan2, Ben Gaunt1, Peter J. Harrison3, Audrey Le Bas3, Aziz Khan2, Andrew M. Giltrap1,2, Philip N. Ward3, Maud Dumoux1, Sergio Daga5, Nicola Picchiotti8,9, Margherita Baldassarri5, Elisa Benetti7, Chiara Fallerini5, Francesca Fava5,6, Annarita Giliberti5, Panagiotis I. Koukos11, Abirami Lakshminarayanan2, Xiaochao Xue2,4, Virgínia Casablancas-Antràs2, Timothy D.W. Claridge2, Alexandre M.J.J Bonvin11, Quentin Sattentau4, Simone Furini7, Marco Gori8,10, Jiangdong Huo1,3, Raymond J. Owens1,3, Alessandra Renieri5,6, GEN-COVID Multicenter Study, James H. Naismith*1,3, Andrew Baldwin*2, Benjamin G. Davis*1,2
 
-1 The Rosalind Franklin Institute, Harwell Science & Innovation Campus, OX11 0FA, UK.
-2 Department of Chemistry, University of Oxford, Oxford, OX1 3TA
-3 Division of Structural Biology, University of Oxford, The Wellcome Centre for Human Genetics, Headington, Oxford, OX3 7BN, UK.
-4 Sir William Dunn School of Pathology, South Parks Road, Oxford, UK.
-5 Medical Genetics, University of Siena, Siena, Italy
-6 Azienda Ospedaliera Universitaria Senese, Siena, Italy
-7 Department of Medical Biotechnologies, University of Siena, Siena, Italy
-8 Department of Information Engineering and Mathematics, University of Siena, Italy
-9 Department of Mathematics, University of Pavia, Pavia, Italy
-10 Université Côte d’Azur, Inria, CNRS, I3S, Maasai
-11 Bijvoet Centre for Biomolecular Research, Faculty of Science, Utrecht University, Netherlands.
+
+1. The Rosalind Franklin Institute, Harwell Science & Innovation Campus, OX11 0FA, UK.
+2. Department of Chemistry, University of Oxford, Oxford, OX1 3TA
+3. Division of Structural Biology, University of Oxford, The Wellcome Centre for Human Genetics, Headington, Oxford, OX3 7BN, UK.
+4. Sir William Dunn School of Pathology, South Parks Road, Oxford, UK.
+5. Medical Genetics, University of Siena, Siena, Italy
+6. Azienda Ospedaliera Universitaria Senese, Siena, Italy
+7. Department of Medical Biotechnologies, University of Siena, Siena, Italy
+8. Department of Information Engineering and Mathematics, University of Siena, Italy
+9. Department of Mathematics, University of Pavia, Pavia, Italy
+10. Université Côte d’Azur, Inria, CNRS, I3S, Maasai
+11. Bijvoet Centre for Biomolecular Research, Faculty of Science, Utrecht University, Netherlands.
 
 
 
