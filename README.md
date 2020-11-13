@@ -1,5 +1,7 @@
 # MODELLING OF THE BINDING OF VARIOUS SIALIC ACID-CONTAINING OLIGOSACCHARIDES TO THE NTD DOMAIN OF THE SPIKE PROTEIN OF SARS-COV2
 
+[![DOI](https://zenodo.org/badge/312301680.svg)](https://zenodo.org/badge/latestdoi/312301680)
+
 This dataset is related to the following submitted manuscript:
 
 **Cryptic SARS-CoV2-spike-with-sugar interactions revealed by ‘universal-STD’**
